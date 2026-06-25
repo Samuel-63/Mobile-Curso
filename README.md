@@ -1,4 +1,4 @@
-## Resumo do curso de Git e GitHub para iniciantes
+# curso de Git e GitHub para iniciantes
 
 Neste curso, aprendi os conceitos básicos de Git e GitHub, entendendo a diferença entre os dois e como eles ajudam no controle de versões de projetos.
 
